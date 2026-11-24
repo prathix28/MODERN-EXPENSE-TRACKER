@@ -1,12 +1,1 @@
-{
-  "budget_limit": 20000.0,
-  "expenses": [
-    { "id": 1, "date": "2026-11-01", "category": "Rent",          "amount": 9000.0, "description": "November room rent" },
-    { "id": 2, "date": "2026-11-03", "category": "Food",          "amount": 250.0,  "description": "Lunch at canteen" },
-    { "id": 3, "date": "2026-11-05", "category": "Travel",        "amount": 600.0,  "description": "Metro card recharge" },
-    { "id": 4, "date": "2026-11-08", "category": "Entertainment", "amount": 450.0,  "description": "Movie tickets" },
-    { "id": 5, "date": "2026-11-12", "category": "Education",     "amount": 1500.0, "description": "Online course subscription" },
-    { "id": 6, "date": "2026-11-15", "category": "Food",          "amount": 800.0,  "description": "Groceries" },
-    { "id": 7, "date": "2026-11-20", "category": "Travel",        "amount": 1200.0, "description": "Weekend trip bus fare" }
-  ]
-}
+
